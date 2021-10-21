@@ -1,0 +1,43 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 150px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+#head 
+{
+    background-color: cyan;
+    text-align: center;
+}
+
+#Start 
+{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    height: 35px;
+    width: 70px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#title 
+{
+    color: tomato;
+    margin-bottom: 50px;
+    text-align: center;
+}
